@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.env
+.neo4j/
+venv/
+.idea/
+.vscode/settings.json
