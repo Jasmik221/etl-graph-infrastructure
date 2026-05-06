@@ -265,8 +265,3 @@ neo4j/queries.cypher
 - Advanced graph analytics
 - Automatic validation reports in JSON format
 
----
-
-## Author
-
-Project created for educational and portfolio purposes.
