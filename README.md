@@ -188,7 +188,7 @@ ORDER BY degree DESC
 
 ### Graph Overview
 
-![Graph Overview](docs/screenshots/graph_overview.png)
+![Graph Overview](docs/screenshots/grafetl.png)
 
 ---
 
@@ -200,13 +200,13 @@ ORDER BY degree DESC
 
 ### Node Type Statistics
 
-![Node Types](docs/screenshots/node_types.png)
+![Node Types](docs/screenshots/node_type.png)
 
 ---
 
 ### Validation Report
 
-![Validation Report](docs/screenshots/validation_report.png)
+![Validation Report](docs/screenshots/error_etl.png)
 
 ---
 
