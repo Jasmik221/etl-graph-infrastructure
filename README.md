@@ -204,6 +204,16 @@ ORDER BY degree DESC
 
 ---
 
+### Most Connected Nodes
+
+![Top Connected Nodes](docs/screenshots/top_connected_nodes.png)
+
+---
+
+### Relationship Statistics
+
+![Relationship Statistics](docs/screenshots/relationship_stats.png)
+
 ### Validation Report
 
 ![Validation Report](docs/screenshots/error_etl.png)
